@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+html {
+    background: #529652;
+}
+
+table {
+    /* border: 1px solid black; */
+    background-color: #8cca8d;
+    /* margin-top: 25px; */
+}
+#name {
+    text-align:center;
+    font-weight: bold;
+}
+caption{
+    font-weight: bold;
+    font-size: 2em;
+    caption-side: top;
+    text-align: left;
+    color: white;
+    margin-bottom: 10px;
+}
+
+ol{
+    padding-right: 10px;
+}
+
+figure {
+    border: 2px solid #448447;
+}
+#link {
+    padding: 10px;
+}
+td{
+    border: 1px solid black;
+}
+
+img{
+    padding: 10px;
+    width: 150px;
+}
+
+.footer {
+    margin-top: 10px;
+    text-align:center;
+    color: white;
+}
